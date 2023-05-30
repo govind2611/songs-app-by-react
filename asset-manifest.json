@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/songs-app-by-react/static/css/main.b4f5b037.css",
+    "main.js": "/songs-app-by-react/static/js/main.14e7375b.js",
+    "index.html": "/songs-app-by-react/index.html",
+    "main.b4f5b037.css.map": "/songs-app-by-react/static/css/main.b4f5b037.css.map",
+    "main.14e7375b.js.map": "/songs-app-by-react/static/js/main.14e7375b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4f5b037.css",
+    "static/js/main.14e7375b.js"
+  ]
+}
